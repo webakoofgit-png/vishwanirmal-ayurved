@@ -1,0 +1,10 @@
+backup_*
+*.sql
+*.sql.gz
+*.wpress
+wp-config.php
+.local-wordpress/
+.env
+.env.*
+cookies.txt
+

@@ -1,0 +1,43 @@
+/*** 
+=============================================
+    Error Page Area Style      
+=============================================
+***/
+.error-page-area{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 150px 0 150px;
+}
+.error-content{
+    position: relative;
+    display: block;
+    z-index: 3;
+}
+.error-content h4{
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+.error-content .title {
+    position: relative;
+    display: block;
+    font-size: 180px;
+    line-height: 150px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 17px 0 18px;
+}
+.error-content p{
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 0 32px;
+}
+.error-content .btns-box {}
+.error-content .btns-box a {
+    line-height: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
